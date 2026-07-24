@@ -4,9 +4,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0115-distinct-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
