@@ -12,13 +12,13 @@ class Solution {
         }
         return ans;
     }
-    public static boolean isPalindrome(String s, int left, int right){
-        while(left < right){
-            if(s.charAt(left) != s.charAt(right)){
+     public static boolean isPalindrome(String s, int i, int j){
+        while(i < j){
+            if(s.charAt(i) != s.charAt(j)){
                 return false;
             }
-            left++;
-            right--;
+            i++;
+            j--;
         }
         return true;
     }
