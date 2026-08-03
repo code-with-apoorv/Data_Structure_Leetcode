@@ -98,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
