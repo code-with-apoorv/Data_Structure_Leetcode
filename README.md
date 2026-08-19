@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0136-single-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0204-count-primes](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1922-count-good-numbers) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -162,4 +165,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
