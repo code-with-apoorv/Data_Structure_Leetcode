@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
