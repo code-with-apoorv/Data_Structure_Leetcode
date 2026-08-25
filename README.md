@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0575-distribute-candies) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0575-distribute-candies) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
