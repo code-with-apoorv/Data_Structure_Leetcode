@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0941-valid-mountain-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0941-valid-mountain-array) |
 | [1046-last-stone-weight](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0704-binary-search) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0566-reshape-the-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Enumeration
 |  |
