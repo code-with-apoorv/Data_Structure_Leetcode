@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1922-count-good-numbers) |
 ## Number Theory
 |  |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
