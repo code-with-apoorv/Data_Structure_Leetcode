@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0326-power-of-three) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
