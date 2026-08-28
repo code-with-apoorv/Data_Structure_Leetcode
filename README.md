@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1920-build-array-from-permutation](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Sliding Window
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Merge Sort
 |  |
 | ------- |
