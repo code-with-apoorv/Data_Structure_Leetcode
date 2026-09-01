@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0500-keyboard-row) |
+| [0763-partition-labels](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0561-array-partition) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0763-partition-labels) |
 | [1903-largest-odd-number-in-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Indexed Tree
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0763-partition-labels](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0763-partition-labels) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0763-partition-labels](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0763-partition-labels) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## String Matching
