@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0881-boats-to-save-people) |
 ## Math
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0763-partition-labels](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0763-partition-labels) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Database
 |  |
