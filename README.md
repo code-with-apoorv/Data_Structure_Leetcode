@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0941-valid-mountain-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-last-stone-weight](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0763-partition-labels](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## String Matching
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
