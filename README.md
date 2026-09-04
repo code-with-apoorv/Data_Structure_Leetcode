@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String Matching
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0904-fruit-into-baskets) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Database
 |  |
 | ------- |
