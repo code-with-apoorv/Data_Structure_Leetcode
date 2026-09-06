@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Database
 |  |
