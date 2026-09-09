@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0567-permutation-in-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0507-perfect-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1920-build-array-from-permutation](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
