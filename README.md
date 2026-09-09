@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3870-count-commas-in-range](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Hash Table
 |  |
 | ------- |
