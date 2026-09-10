@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0566-reshape-the-matrix) |
