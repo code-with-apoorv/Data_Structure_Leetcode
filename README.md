@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0561-array-partition) |
+| [0649-dota2-senate](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0881-boats-to-save-people) |
@@ -446,4 +448,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
