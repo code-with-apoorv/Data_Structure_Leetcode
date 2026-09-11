@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
