@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0507-perfect-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1512-number-of-good-pairs](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1512-number-of-good-pairs](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
