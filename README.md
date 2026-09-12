@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1046-last-stone-weight) |
+| [1267-count-servers-that-communicate](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1267-count-servers-that-communicate](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Enumeration
@@ -407,11 +410,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Counting Sort
 |  |
 | ------- |
@@ -467,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Queue
 |  |
 | ------- |
