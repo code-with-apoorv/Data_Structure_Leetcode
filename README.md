@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0507-perfect-number) |
+| [0836-rectangle-overlap](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -501,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
