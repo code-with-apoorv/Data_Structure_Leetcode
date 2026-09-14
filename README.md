@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0049-group-anagrams) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
