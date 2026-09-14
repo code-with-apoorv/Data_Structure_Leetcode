@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0566-reshape-the-matrix) |
