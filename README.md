@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1463-cherry-pickup-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Array
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2233-maximum-product-after-k-increments) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
 |  |
 | ------- |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -349,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0342-power-of-four) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -543,4 +549,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
