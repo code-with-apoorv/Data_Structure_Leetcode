@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0050-powx-n) |
+| [0096-unique-binary-search-trees](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0258-add-digits) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -507,10 +510,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
