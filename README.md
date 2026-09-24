@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0463-island-perimeter](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0463-island-perimeter) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -533,11 +535,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
