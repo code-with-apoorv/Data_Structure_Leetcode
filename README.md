@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0198-house-robber) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0463-island-perimeter](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0733-flood-fill) |
 | [1267-count-servers-that-communicate](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -638,4 +642,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0459-repeated-substring-pattern) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
