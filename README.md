@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0754-reach-a-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0754-reach-a-number) |
 | [0875-koko-eating-bananas](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0507-perfect-number) |
+| [0754-reach-a-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1512-number-of-good-pairs) |
