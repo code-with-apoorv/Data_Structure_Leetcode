@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -668,4 +672,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
