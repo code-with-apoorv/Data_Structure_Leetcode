@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2233-maximum-product-after-k-increments) |
 ## Bucket Sort
@@ -436,11 +440,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Matrix
 |  |
 | ------- |
