@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0322-coin-change) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0367-valid-perfect-square) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0342-power-of-four) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Backtracking
@@ -698,4 +702,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0229-majority-element-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
