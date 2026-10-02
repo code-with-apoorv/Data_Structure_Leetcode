@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0115-distinct-subsequences) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0063-unique-paths-ii) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0040-combination-sum-ii) |
 ## Prefix Sum
 |  |
@@ -716,4 +719,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
