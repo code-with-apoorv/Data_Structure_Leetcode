@@ -17,19 +17,19 @@ class Solution {
        // return maxLen;
 
        // OPTIMAL APPROACH
-       int left = 0; int zerocount = 0; int maxlen = 0;
-       for(int right = 0; right < nums.length; right++){
-        if(nums[right] == 0){
-            zerocount++;
-        }
-        if(zerocount > k){
+       int zero = 0;
+       int maxi = 0;
+       int left = 0;
+
+       for(int right = 0; right<nums.length; right++){
+        if(nums[right] == 0)zero++;
+        while(left < nums.length && zero>k){
             if(nums[left] == 0){
-                zerocount--;
-            }
-            left++;
+                zero--;
+            }left++;
         }
-        maxlen = Math.max(maxlen, right - left + 1);
+        maxi = Math.max(maxi, right-left+1);
        }
-       return maxlen;
+       return maxi;
     }
 }
