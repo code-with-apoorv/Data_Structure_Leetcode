@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
