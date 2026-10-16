@@ -1,0 +1,26 @@
+class Solution {
+    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+        int n1 = nums1.length;
+        int n2 = nums2.length;
+        int[] arr = new int[n1 + n2];
+        int k = 0;
+        for (int i = 0; i < n1; i++) {
+            arr[k++] = nums1[i];
+        }
+        for (int i = 0; i < n2; i++) {
+            arr[k++] = nums2[i];
+        }
+
+        Arrays.sort(arr);
+        int n = arr.length;
+
+        // Step 5: Find the median
+        if (n % 2 == 1) {
+            // Odd length: return the middle element
+            return arr[n / 2];
+        } else {
+            // Even length: average of two middle elements
+            return (arr[n / 2 - 1] + arr[n / 2]) / 2.0;
+        }
+    }
+}
