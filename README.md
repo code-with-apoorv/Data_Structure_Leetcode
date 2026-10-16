@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0120-triangle) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0143-reorder-list) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0217-contains-duplicate) |
@@ -795,4 +798,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
