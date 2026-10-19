@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0075-sort-colors) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
