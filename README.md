@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0724-find-pivot-index](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1109-corporate-flight-bookings) |
