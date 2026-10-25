@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0090-subsets-ii) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0566-reshape-the-matrix) |
