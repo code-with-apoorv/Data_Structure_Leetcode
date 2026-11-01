@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1037-valid-boomerang](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1046-last-stone-weight) |
 | [1109-corporate-flight-bookings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0507-perfect-number) |
 | [0754-reach-a-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0836-rectangle-overlap) |
+| [1037-valid-boomerang](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1037-valid-boomerang) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0836-rectangle-overlap) |
+| [1037-valid-boomerang](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1037-valid-boomerang) |
 ## Rolling Hash
 |  |
 | ------- |
