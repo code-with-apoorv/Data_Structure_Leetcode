@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
