@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1463-cherry-pickup-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3693-climbing-stairs-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Array
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
