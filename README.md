@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -576,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -586,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -779,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tournament Sort
 |  |
 | ------- |
