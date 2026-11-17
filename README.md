@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1189-maximum-number-of-balloons](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1446-consecutive-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1338-reduce-array-size-to-the-half](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
