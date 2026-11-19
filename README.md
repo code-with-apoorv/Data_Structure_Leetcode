@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0205-isomorphic-strings) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0143-reorder-list) |
