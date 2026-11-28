@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0063-unique-paths-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0054-spiral-matrix) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0141-linked-list-cycle) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -878,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/code-with-apoorv/Data_Structure_Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
